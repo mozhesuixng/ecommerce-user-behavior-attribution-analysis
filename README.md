@@ -23,7 +23,7 @@
 
 ## 📊 在线交互仪表板
 
-👉 **[点击查看 Tableau 交互仪表板]([https://public.tableau.com/views/你的仪表板名称/Sheet1](https://public.tableau.com/views/taobao_analysis/1_1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+👉 **[点击查看 Tableau 交互仪表板](https://public.tableau.com/views/taobao_analysis/1_1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 *（支持悬停查看数据、筛选图例，建议在 PC 端浏览）*
 
